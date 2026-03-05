@@ -38,6 +38,3 @@ Weed
 
 Optimized for detecting small plants in agricultural fields
 
-The trained model is stored as:
-
-models/best.pt
