@@ -1,7 +1,0 @@
-streamlit==1.55.0
-ultralytics
-opencv-python-headless
-numpy
-pillow
-matplotlib
-torch
