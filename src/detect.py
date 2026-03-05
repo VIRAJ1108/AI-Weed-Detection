@@ -7,7 +7,7 @@ class WeedDetector:
 
     def detect(self, image_path):
 
-        results = self.model(image_path, conf=0.35)
+        results = self.model(image_path, conf=0.1)
 
         detections = []
 
